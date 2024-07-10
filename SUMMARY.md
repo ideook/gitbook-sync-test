@@ -2,12 +2,12 @@
 
 ## Part 1
 
-* [1. 개요](README.md)
-  * [일반사항](part-1/1./undefined/README.md)
-    * [Framework의 개요](part-1/1./undefined/framework.md)
-    * [Framework 활용의 의의](part-1/1./undefined/framework-1.md)
-    * [Framework의 위계](part-1/1./undefined/framework-2.md)
-    * [Framework의 작성 주체](part-1/1./undefined/framework-3.md)
+* [개요](README.md)
+  * [일반사항](part-1/undefined/undefined/README.md)
+    * [Framework의 개요](part-1/undefined/undefined/framework.md)
+    * [Framework 활용의 의의](part-1/undefined/undefined/framework-1.md)
+    * [Framework의 위계](part-1/undefined/undefined/framework-2.md)
+    * [Framework의 작성 주체](part-1/undefined/undefined/framework-3.md)
 * [Page](part-1/page.md)
 * [Page 1](part-1/page-1.md)
 
